@@ -1,2 +1,2 @@
 # 5g-cloud-native-lab
-pt Laboratório prático de 5G Core cloud-native: API Python/REST, Docker, Kubernetes, CI/CD, observabilidade, CNFs e Network Slicing.
+Hands-on cloud-native 5G Core lab: Python/REST API, Docker, Kubernetes, CI/CD, observability, CNFs and Network Slicing.
